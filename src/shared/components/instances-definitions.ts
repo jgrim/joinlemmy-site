@@ -237,7 +237,7 @@ export const RECOMMENDED_INSTANCES: RecommendedInstance[] = [
   {
     domain: "discuss.online",
     languages: ["en"],
-    topics: [TECHNOLOGY],
+    topics: [GENERAL, TECHNOLOGY],
   },
   {
     domain: "lemmy.one",
